@@ -23,7 +23,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=15&duration=4000&pause=15000&color=F7F4D5&width=435&height=30&lines=%3E+Front-End" alt="Typing SVG" /></a>
 
   <div style="display: block;">
-  <img width=80% src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif"/>
+  <img width=15% src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif"/>
   </div>
   
   </div>
@@ -68,4 +68,5 @@
   <br>
   </div>
    
+
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=115&color=839958&fontAlign=0&descAlign=51&reversal=false&section=footer"/>
