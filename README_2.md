@@ -17,19 +17,7 @@
 
 <br><br>
 
-<br>
-
-<table align="center" cellpadding="0" cellspacing="0">
-<tr>
-<td>
-
-<!-- BORDA EXTERNA (simula glow) -->
-<table align="center" border="1" bordercolor="#B309FF" cellpadding="2" cellspacing="0">
-<tr>
-<td>
-
-<!-- CONTEÚDO INTERNO -->
-<table align="center" cellpadding="20" cellspacing="0">
+<table align="center" border="1" bordercolor="#B309FF" cellpadding="15">
 <tr>
 
 <td align="left">
@@ -54,14 +42,6 @@
 
 </td>
 
-</tr>
-</table>
-
-</td>
-</tr>
-</table>
-
-</td>
 </tr>
 </table>
 
@@ -113,4 +93,3 @@
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=115&color=A700FFFF&fontAlign=0&descAlign=51&reversal=false&section=footer"/>
-
