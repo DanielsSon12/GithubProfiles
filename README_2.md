@@ -57,7 +57,8 @@
   ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
   
   <br>
-  <img width=20% src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif"/>
+  <img width=15% src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif"/>
   </div>
    
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=115&color=A700FFFF&fontAlign=0&descAlign=51&reversal=false&section=footer"/>
+
