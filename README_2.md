@@ -17,7 +17,7 @@
 
 <br><br>
 
-<table align="center" border="1" bordercolor="#B309FF">
+<table align="center" border="1" bordercolor="#B309FF" cellpadding="15">
 <tr>
 
 <td align="left">
