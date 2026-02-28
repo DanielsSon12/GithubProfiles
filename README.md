@@ -8,7 +8,7 @@
   #
   ### <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&letterSpacing=2px&duration=2000&pause=30000&color=839958&center=true&width=500&height=40&lines=About+me%3A" alt="Typing SVG" /></a>
 
-  <table align="center" style="border: none;">
+  <table align="center" style="border-collapse: collapse;">
   <tr>
   <td>
   
