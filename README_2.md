@@ -17,13 +17,7 @@
 
 <br><br>
 
-<br>
-
-<table align="center" cellpadding="0" cellspacing="0">
-<tr>
-<td style="border: 1px solid #B309FF; padding: 20px;">
-
-<table>
+<table align="center">
 <tr>
 
 <td align="left">
@@ -48,10 +42,6 @@
 
 </td>
 
-</tr>
-</table>
-
-</td>
 </tr>
 </table>
 
@@ -103,4 +93,3 @@
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=115&color=A700FFFF&fontAlign=0&descAlign=51&reversal=false&section=footer"/>
-
