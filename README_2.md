@@ -10,7 +10,6 @@
 </a>
 
 #
-
 ### <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&letterSpacing=2px&duration=2000&pause=30000&color=B309FF&center=true&width=500&height=40&lines=About+me%3A" />
 </a>
@@ -47,11 +46,10 @@
 
 </div>
 
-<hr>
-
 <div align="center">
 <br>
 
+#
 ### <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&letterSpacing=2px&duration=2000&pause=30000&color=B309FF&center=true&width=500&height=40&lines=Contact%2FSocial%3A" />
 </a>
@@ -64,11 +62,10 @@
 <br>
 </div>
 
-<hr>
-
 <div align="center">
 <br>
 
+#
 ### <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&letterSpacing=2px&duration=2000&pause=30000&color=B309FF&center=true&width=500&height=40&lines=Skills%3A" />
 </a>
@@ -93,3 +90,4 @@
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=115&color=A700FFFF&fontAlign=0&descAlign=51&reversal=false&section=footer"/>
+
