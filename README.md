@@ -273,6 +273,11 @@
 
 ## 4º
 
-  <div align="center">
-    <img src="https://raw.githubusercontent.com/DanielsSon12/GithubProfiles/main/README_4.svg" width=100%/>
-  </div>
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/DanielsSon12/GithubProfiles/main/README_4.svg" 
+    width="100%" 
+    alt="Daniel Terminal Profile"
+  />
+</p>
+
