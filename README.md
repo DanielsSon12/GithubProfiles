@@ -274,5 +274,5 @@
 ## 4º
 
   <div align="center">
-    <img src="./README_4.svg">
+    <img src="https://raw.githubusercontent.com/DanielsSon12/GithubProfiles/main/README_4.svg" width=100%/>
   </div>
