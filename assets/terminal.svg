@@ -317,9 +317,9 @@
             .............................................................. </text>
 
         <text x="45" y="690" class="t">$ skills</text>
-        <text x="70" y="725" class="small">HTML5 | CSS3 | SCSS/SASS | Tailwind CSS | JavaScript | C++ | PHP
+        <text x="70" y="725" class="small">HTML5 | CSS3 | SCSS/SASS | JavaScript | React | Typescript | Tailwind CSS | Vite
             .....................................</text>
-        <text x="70" y="760" class="small">Git | GitHub | MySQL | Microsoft Excel | Canva | Logic Programation
+        <text x="70" y="760" class="small">Git | GitHub | MySQL | C++ | C | PHP | Microsoft Excel | Canva | Logic Programation
             ..................................</text>
 
         <text x="45" y="880" class="t">daniel@github:~/profile$</text>
