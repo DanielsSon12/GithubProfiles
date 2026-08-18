@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=115&color=839958&fontAlign=0&descAlign=51&reversal=false&section=header"/>
   <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&letterSpacing=2px&duration=4000&pause=30000&color=F7F4D5&center=true&width=700&height=40&lines=Bem+vindo(a)%2C+me+chamo+{seu nome}" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&letterSpacing=2px&duration=4000&pause=30000&color=F7F4D5&center=true&width=700&height=40&lines=Bem+vindo(a)%2C+me+chamo+{seu+nome}" alt="Typing SVG" /></a>
 
 #
 
@@ -12,25 +12,25 @@
   <td>
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=15&duration=4000&pause=15000&color=F7F4D5&width=435&height=30&lines=%3E+Information 1 ..." />
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=15&duration=4000&pause=15000&color=F7F4D5&width=435&height=30&lines=%3E+Information+1+..." />
   </a>
   
   <br>
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=15&duration=4000&pause=15000&color=F7F4D5&width=435&height=30&lines=%3E+Information 2 ..." />
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=15&duration=4000&pause=15000&color=F7F4D5&width=435&height=30&lines=%3E+Information+2+..." />
   </a>
   
   <br>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=15&duration=4000&pause=15000&color=F7F4D5&width=435&height=30&lines=%3E+Information 3 ..." />
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=15&duration=4000&pause=15000&color=F7F4D5&width=435&height=30&lines=%3E+Information+3+..." />
   </a>
   
   <br>
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=15&duration=4000&pause=15000&color=F7F4D5&width=435&height=30&lines=%3E+Information 4 ..." />
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=15&duration=4000&pause=15000&color=F7F4D5&width=435&height=30&lines=%3E+Information+4+..." />
   </a>
   
   </td>

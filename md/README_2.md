@@ -6,7 +6,7 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&letterSpacing=2px&duration=2000&pause=30000&color=B309FF&center=true&width=700&height=40&lines=Bem+vindo(a)%2C+me+chamo+{seu nome}" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&letterSpacing=2px&duration=2000&pause=30000&color=B309FF&center=true&width=700&height=40&lines=Bem+vindo(a)%2C+me+chamo+{seu+nome}" />
 </a>
 
 #
@@ -22,15 +22,15 @@
 <td align="left">
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=15&duration=4000&pause=15000&color=B309FF&width=435&height=30&lines=%3E+Information 1 ..." />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=15&duration=4000&pause=15000&color=B309FF&width=435&height=30&lines=%3E+Information+1+..." />
 </a>
 <br>
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=15&duration=4000&pause=15000&color=B309FF&width=435&height=30&lines=%3E+Information 2 ..." />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=15&duration=4000&pause=15000&color=B309FF&width=435&height=30&lines=%3E+Information+2+..." />
 </a>
 <br>
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=15&duration=4000&pause=15000&color=B309FF&width=435&height=30&lines=%3E+Information 3 ..." />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=15&duration=4000&pause=15000&color=B309FF&width=435&height=30&lines=%3E+Information+3+..." />
 </a>
 
 </td>
